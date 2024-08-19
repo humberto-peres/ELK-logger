@@ -1,4 +1,4 @@
-# 📜 Implementação de Programa com Registro de Logs
+# 📜 Implementação de Programa com Registro de Logs / Ferramentas de visualização de log
 
 ## 🔗 Relatório
 
